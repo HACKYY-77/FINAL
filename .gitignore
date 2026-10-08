@@ -1,0 +1,6 @@
+data/
+models/
+outputs/
+node_modules/
+.venv/
+__pycache__/
